@@ -1,5 +1,5 @@
-# PostgreSQL Knowledge Base
+# PostgreSQL
 
-# Extensions
+## Knowledge Base
 
-## [hstore](./kb/hstore.md)
+### [hstore](./kb/hstore.md)
